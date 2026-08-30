@@ -33,7 +33,6 @@ I enjoy working with data, creating meaningful dashboards, and turning raw data 
 ## Projects
 
 ### 📈 Sales Dashboard — Excel
-### 📊 Tata — Generative AI Virtual Experience Program (Forage)
 
 - Created an interactive sales dashboard
 - Used formulas, Pivot Tables, and charts to analyze sales data
@@ -47,6 +46,7 @@ I enjoy working with data, creating meaningful dashboards, and turning raw data 
 
 ## Certifications
 
+📃 Tata GenAI Powered Data Analytics 
 🏆 Excel Beginner to Advanced
 
 ## Learning Journey
@@ -65,7 +65,7 @@ I believe in learning by building practical projects and continuously improving 
 
 ## Let's Connect
 
-💼 LinkedIn: Add your LinkedIn profile link here
+💼 LinkedIn: www.linkedin.com/in/harshit-maharaj-4bb962324
 
 ---
 
